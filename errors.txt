@@ -1,0 +1,18 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 1140: end of line expected.
+    jump scene_4_truth?
+                     ^
+
+File "game/script.rpy", line 1284: end of line expected.
+    jump scene_4_truth?
+                     ^
+
+File "game/script.rpy", line 1303: expected ':' not found.
+    label scene_4_truth?:
+                      ^
+
+Ren'Py Version: Ren'Py 8.4.0.25021802+nightly
+Thu Jun 19 02:27:25 2025

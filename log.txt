@@ -1,0 +1,28 @@
+2025-11-26 22:52:25 UTC
+Windows-10-10.0.19045-SP0
+Ren'Py 8.5.0.25111603
+
+Early init took 28 ms
+Loading error handling took 14 ms
+Loading script took 57 ms
+Loading save slot metadata took 13 ms
+Loading persistent took 0 ms
+Running init code took 27 ms
+Loading analysis data took 4 ms
+Analyze and compile ATL took 0 ms
+Reloading save slot metadata took 5 ms
+Dump and make backups took 21 ms
+Cleaning cache took 1 ms
+Making clean stores took 0 ms
+Initial gc took 23 ms
+DPI scale factor: 1.500000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 177 ms
+Init translation took 0 ms
+Cleaning stores took 0 ms
+Load screen analysis took 10 ms
+Analyze screens took 0 ms
+Save screen analysis took 0 ms
+Save pyanalysis took 0 ms
+Save bytecode took 0 ms
